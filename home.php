@@ -24,7 +24,7 @@ get_header(); ?>
 ?>
 					</section>
 
-
+					<!-- Complete credit for the beautiful timer: http://codepen.io/mel/details/nleBw -->
 					<div class="countdown-timer">
 						<div id="days"></div>
 						<div id="hours"></div>
