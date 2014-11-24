@@ -62,7 +62,7 @@ $(window).resize(function () {
  
 function timer() {
 
-	var target_date = new Date("April 5, 2014").getTime();
+	var target_date = new Date("March 28, 2015").getTime();
  
 	var days, hours, minutes, seconds;
  
@@ -88,7 +88,7 @@ function timer() {
 
 function countdownTimer() {
 
-	var endTime = new Date("5 April 2014");			
+	var endTime = new Date("28 March 2015");			
 	endTime = (Date.parse(endTime) / 1000);
 
 	var now = new Date();
